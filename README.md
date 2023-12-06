@@ -1,3 +1,3 @@
-Solutions aux TMEs du module MAPSI (Modèles et Algorithmes Probabilistes et Statistiques pour l’Informatique) du premier semestre du master DAC (Données Apprentissage Connaissances) à Sorbonne Université.
+Solutions to the practical works of the course MAPSI (Modèles et Algorithmes Probabilistes et Statistiques pour l’Informatique) of the first semester of the Master DAC (Données Apprentissage Connaissances) at Sorbonne University.
 
 
